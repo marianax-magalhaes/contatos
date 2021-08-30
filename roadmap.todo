@@ -20,9 +20,9 @@ Criação de Menu:
     ✔ Adicione esse componente ao app.component.html @done(21-08-30 10:42)
     ✔ Dê estilo a ele baseado no css https://github.com/sergiomoura/contatos-html-template/blob/main/css/home.css @done(21-08-30 10:42)
     - *Observe que o link para sair do sistema não está aparecendo corretamente (exit_to_app)*
-    ☐ Importe as fontes do material icon fonts para o seu projeto adicionando a linha de código no index.html
+    ✔ Importe as fontes do material icon fonts para o seu projeto adicionando a linha de código no index.html @done(21-08-30 14:34)
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    ☐ Verifique se o menu aparece corretamente.
+    ✔ Verifique se o menu aparece corretamente. @done(21-08-30 14:34)
 
 Criação de Lista de Contatos:
     ✔ Criar o componente components/ListaDeContatos @done(21-08-30 11:06)
